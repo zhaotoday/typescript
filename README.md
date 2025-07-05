@@ -1,6 +1,7 @@
 #### 文档
 - [TypeScript 使用手册](https://github.com/zhongsp/TypeScript)
 - [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
 
 #### 开源
 - [awesome-typescript](https://github.com/dzharii/awesome-typescript)
