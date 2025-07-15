@@ -8,5 +8,6 @@
 - [better-sse](https://github.com/MatthewWid/better-sse)
 
 #### 文章
+- [TS进阶！深入探索 TypeScript 工具类型：内置神器与高阶扩展](https://juejin.cn/post/7514325765754175526)
 - [每个开发人员都应该知道的 TypeScript 技巧](https://juejin.cn/post/7522773193289121832)
 - [TypeScript类型体操汇总](https://juejin.cn/post/7502880222406459411)
