@@ -8,6 +8,7 @@
 - [better-sse](https://github.com/MatthewWid/better-sse)
 
 #### 文章
+- [🚀🚀五个前端开发者都应该了解的TS技巧](https://juejin.cn/post/7527981944489099264)
 - [都2025了，你确定你完全掌握Typescript了吗](https://juejin.cn/post/7487848315679260726)
 - [Typescript内置工具类型汇总](https://juejin.cn/post/7501740301381320730)
 - [TypeScript进阶（三）类型演算与高级内置类型](https://juejin.cn/post/7300789760703053850)
