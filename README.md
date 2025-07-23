@@ -8,6 +8,7 @@
 - [better-sse](https://github.com/MatthewWid/better-sse)
 
 #### 文章
+- [TypeScript技术系列14之最终章：常见的TS错误汇总](https://juejin.cn/post/7493125575072432137)
 - [TypeScript 函数重载详解：原理、实践与最佳用法](https://juejin.cn/post/7514244463226421257)
 - [最近掌握的高级TypeScript清单](https://juejin.cn/post/7468686890167304230)
 - [🚀🚀五个前端开发者都应该了解的TS技巧](https://juejin.cn/post/7527981944489099264)
