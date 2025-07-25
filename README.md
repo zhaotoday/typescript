@@ -8,6 +8,7 @@
 - [better-sse](https://github.com/MatthewWid/better-sse)
 
 #### 文章
+- [TypeScript入门（七）高级类型：解锁TypeScript的"终极形态"](https://juejin.cn/post/7521936882370330651)
 - [TypeScript 高级类型](https://juejin.cn/post/7520183745501282367)
 - [TypeScript 知识点速查（附代码示例）](https://juejin.cn/post/7487114886290112566)
 - [TypeScript技术系列14之最终章：常见的TS错误汇总](https://juejin.cn/post/7493125575072432137)
