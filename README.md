@@ -6,6 +6,7 @@
 #### 开源
 - [awesome-typescript](https://github.com/dzharii/awesome-typescript)
 - [better-sse](https://github.com/MatthewWid/better-sse)
+- [trpc](https://github.com/trpc/trpc)
 
 #### 文章
 - [我的TS学习汇总](https://juejin.cn/post/7437374580228718628)
