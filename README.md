@@ -9,6 +9,7 @@
 - [trpc](https://github.com/trpc/trpc)
 
 #### 文章
+- [TypeScript核心玩法，顺便附赠面试通关秘籍！](https://juejin.cn/post/7516897449548087332)
 - [我的TS学习汇总](https://juejin.cn/post/7437374580228718628)
 - [TypeScript入门（七）高级类型：解锁TypeScript的"终极形态"](https://juejin.cn/post/7521936882370330651)
 - [TypeScript 高级类型](https://juejin.cn/post/7520183745501282367)
