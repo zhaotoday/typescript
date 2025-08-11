@@ -10,6 +10,7 @@
 - [trpc](https://github.com/trpc/trpc)
 
 #### 文章
+- [前端人速码！10个TypeScript神仙技巧，看完直接拿捏项目实战](https://juejin.cn/post/7496784809533800489)
 - [TypeScript深度强化第一天](https://juejin.cn/post/7520048068625891366)
 - [TypeScript核心玩法，顺便附赠面试通关秘籍！](https://juejin.cn/post/7516897449548087332)
 - [我的TS学习汇总](https://juejin.cn/post/7437374580228718628)
