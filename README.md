@@ -10,6 +10,7 @@
 - [trpc](https://github.com/trpc/trpc)
 
 #### 文章
+- [TypeScript 工具类型（Utility Types）](https://juejin.cn/post/7527834990793605120)
 - [一文搞懂 TypeScript 类型系统：从基础类型到 Class 实战](https://juejin.cn/post/7501243098171506739)
 - [前端人速码！10个TypeScript神仙技巧，看完直接拿捏项目实战](https://juejin.cn/post/7496784809533800489)
 - [TypeScript深度强化第一天](https://juejin.cn/post/7520048068625891366)
