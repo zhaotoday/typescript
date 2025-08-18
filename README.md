@@ -5,6 +5,7 @@
 - [clean-code-typescript](https://labs42io.github.io/clean-code-typescript/)
 
 #### 开源
+- [typedoc](https://typedoc.org/)
 - [awesome-typescript](https://github.com/dzharii/awesome-typescript)
 - [better-sse](https://github.com/MatthewWid/better-sse)
 - [trpc](https://github.com/trpc/trpc)
