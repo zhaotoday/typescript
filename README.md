@@ -11,6 +11,7 @@
 - [trpc](https://github.com/trpc/trpc)
 
 #### 文章
+- [TypeScript 高频面试题与核心知识总结](https://juejin.cn/post/7523878122645520384)
 - [整理一些好用的TS写法](https://juejin.cn/post/7495414240360169509)
 - [TypeScript 工具类型（Utility Types）](https://juejin.cn/post/7527834990793605120)
 - [一文搞懂 TypeScript 类型系统：从基础类型到 Class 实战](https://juejin.cn/post/7501243098171506739)
