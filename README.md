@@ -11,6 +11,7 @@
 - [trpc](https://github.com/trpc/trpc)
 
 #### 文章
+- [[前端] Leader：可以不用但要知道😠一文速查 TypeScript 基础知识点，字典式速查，全文干货！](https://juejin.cn/post/7533955393963360283)
 - [TypeScript 高频面试题与核心知识总结](https://juejin.cn/post/7523878122645520384)
 - [整理一些好用的TS写法](https://juejin.cn/post/7495414240360169509)
 - [TypeScript 工具类型（Utility Types）](https://juejin.cn/post/7527834990793605120)
